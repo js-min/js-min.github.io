@@ -1,7 +1,7 @@
-title:              수발블로그
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Swifttu
+# email:              your-email@example.com
+description:        About Swift
+author:             js-min
 baseurl:            "" #"/startbootstrap-clean-blog-jekyll"
 url:                "https://js-min.github.io"
 
